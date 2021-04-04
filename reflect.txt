@@ -1,0 +1,18 @@
+Navdeep Virdi
+166485193
+nvirdi2@myseneca.ca
+April 4th, 2021
+
+Reflection 
+This workshop had me work with templates for the first time. What is a template? 
+from my understanding, a template is a way of hold code and or data for a specific 
+parameter, and instead of writing the same process for a different parameter, the 
+same code will apply to it. The declaration of the template was easy, however, the 
+process of understanding why it was used for those two specific parameters and the other
+template for the other one, took some time. I also understood where we are placing the
+template makes a difference and how we type it too. This was kind of easy to learn since
+there were the in-class examples that I could look off of to understand how to create it
+and have it function. The way I understood this concept faster than others that were taught 
+in this class was by looking at what it meant. If we have an integer and a double data
+type and instead of re-typing the same process of adding for the templates can be used, however,
+this can also apply to larger codes.
